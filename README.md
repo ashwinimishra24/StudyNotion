@@ -19,24 +19,24 @@ Follow these steps to get StudyNotion up and running on your local machine:
 1. Clone the StudyNotion repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/your-username/StudyNotion.git
+   git clone https://github.com/ashwinimishra24/StudyNotion.git
 
-##Features
+## Features
 
 StudyNotion offers the following features:
 
 1. User Modules:
-    Admin: Administrators can manage users, courses, and content on the platform.
-    Teacher: Teachers can create and manage their courses, including adding lessons and materials.
-    Student: Students can browse courses, purchase them, and access course materials.
+    - **Admin:** Administrators can manage users, courses, and content on the platform.
+    - **Teacher:** Teachers can create and manage their courses, including adding lessons and materials.
+    - **Student:** Students can browse courses, purchase them, and access course materials.
 2. Course Purchases: Students can purchase courses from various instructors.
 3. Course Creation: Teachers can create and publish courses, making educational content accessible to students.
 
-##Contributing
+## Contributing
 
 If you'd like to contribute to StudyNotion, please fork the repository, create a new branch for your work, and submit a pull request. Make sure to follow the contributing guidelines for more information.
 
 
-##License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
